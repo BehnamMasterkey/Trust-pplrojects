@@ -1,6 +1,7 @@
-/Assets
- ├── Scripts/
- ├── Scenes/
- ├── Audio/
- ├── Images/
- └── Animations/
+/Assets/Assets
+ ├── Scripts/FinalSceneController.cs
+ ├── Audio/cyrus_voice.wav
+ ├── Audio/daff_end.wav
+ ├── Animations/CylinderGlow.anim
+ ├── Prefabs/GlowEffect.prefab
+ └── UI/TextMessage.prefab
